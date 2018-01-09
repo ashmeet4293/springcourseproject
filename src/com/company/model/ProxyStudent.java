@@ -8,6 +8,8 @@ public class ProxyStudent implements StudentData {
     String name;
     double fee;
 
+    //This is somehting
+
     public ProxyStudent(){
     }
 
